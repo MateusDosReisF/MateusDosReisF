@@ -20,12 +20,11 @@ Sou Mateus, desenvolvedor Front-end apaixonado por segurança da informação.
   <summary> <b> Quer saber mais sobre mim? </b> <i>(Clique aqui para expandir)</i> </summary>
   <br>
 
-  [![Github Status](https://github-readme-stats.vercel.app/api?username=Douglas-Reis&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/Douglas-Reis/Douglas-Reis)
+  [![Github Status](https://github-readme-stats.vercel.app/api?username=Douglas-Reis&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/TredSonn/TredSonn)
 
 ## Tecnologias
 #### Conhecidas
   ![C](https://img.shields.io/badge/-C-blue?style=flat-square&logo=C&logoColor=white)
-  ![C++](https://img.shields.io/badge/-C++-blue?style=flat-square&logo=C&logoColor=white)
   ![Java](https://img.shields.io/badge/-Java-E34F26?style=flat-square&logo=Java&logoColor=white)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-5849BE?style=flat-square&logo=Eclipse&logoColor=white)
   ![VSCode](https://img.shields.io/badge/-VSCode-0085D1?style=flat-square&logo=visual-studio-code&logoColor=white)
@@ -40,7 +39,7 @@ Sou Mateus, desenvolvedor Front-end apaixonado por segurança da informação.
   ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white)
   ![PHP](https://img.shields.io/badge/-PHP-5849BE?style=flat-square&logo=PHP&logoColor=white)
-  ![Laravel](https://img.shields.io/badge/-Laravel-E34F26?style=flat-square&logo=Laravel&logoColor=white)
+
   ---
 </details>
 
