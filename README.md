@@ -20,7 +20,7 @@ Sou Mateus, desenvolvedor Front-end apaixonado por segurança da informação.
   <summary> <b> Quer saber mais sobre mim? </b> <i>(Clique aqui para expandir)</i> </summary>
   <br>
 
-  [![Github Status](https://github-readme-stats.vercel.app/api?username=MateusdosReis&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/TredSonn/TredSonn)
+  [![Github Status](https://github-readme-stats.vercel.app/api?username=Mateus&dos&Reis&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/TredSonn/TredSonn)
 
 ## Tecnologias
 #### Conhecidas
