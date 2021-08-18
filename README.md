@@ -13,7 +13,7 @@ Sou Mateus, desenvolvedor Front-end apaixonado por segurança da informação.
 - 🔭 Atualmente trabalho como Professor Instrutor de ensino e aprendizagem em serviços.
 - 🌱 Estou estudando python e Desenvolvimento web.
 - 💬 Pergunte-me sobre: Tecnologia, novidades sobre cyber segurança.
-- ⚡ linguagens: python e Dart.
+- ⚡ linguagens: python.
 - ⚡ linguagens de marcação:CSS/HTML.
 
 <details>
